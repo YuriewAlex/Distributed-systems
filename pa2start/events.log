@@ -1,0 +1,1532 @@
+0: process 2 (pid  3573, parent  3571) has STARTED with balance $10
+0: process 9 (pid  3580, parent  3571) has STARTED with balance $10
+0: process 3 (pid  3574, parent  3571) has STARTED with balance $10
+0: process 8 (pid  3579, parent  3571) has STARTED with balance $10
+0: process 7 (pid  3578, parent  3571) has STARTED with balance $10
+0: process 10 (pid  3581, parent  3571) has STARTED with balance $10
+0: process 4 (pid  3575, parent  3571) has STARTED with balance $10
+0: process 6 (pid  3577, parent  3571) has STARTED with balance $10
+0: process 1 (pid  3572, parent  3571) has STARTED with balance $10
+0: process 5 (pid  3576, parent  3571) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+10: process 9 has DONE with balance $ 9
+0: process 5 (pid  3950, parent  3945) has STARTED with balance $10
+0: process 3 (pid  3948, parent  3945) has STARTED with balance $10
+0: process 4 (pid  3949, parent  3945) has STARTED with balance $10
+0: process 7 (pid  3952, parent  3945) has STARTED with balance $10
+0: process 10 (pid  3955, parent  3945) has STARTED with balance $10
+0: process 8 (pid  3953, parent  3945) has STARTED with balance $10
+0: process 1 (pid  3946, parent  3945) has STARTED with balance $10
+0: process 9 (pid  3954, parent  3945) has STARTED with balance $10
+0: process 2 (pid  3947, parent  3945) has STARTED with balance $10
+0: process 6 (pid  3951, parent  3945) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+10: process 9 has DONE with balance $ 9
+0: process 3 (pid   347, parent   344) has STARTED with balance $30
+0: process 1 (pid   345, parent   344) has STARTED with balance $10
+0: process 5 (pid   349, parent   344) has STARTED with balance $50
+0: process 4 (pid   348, parent   344) has STARTED with balance $40
+0: process 2 (pid   346, parent   344) has STARTED with balance $20
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $19
+5: process 3 has DONE with balance $29
+5: process 4 has DONE with balance $39
+5: process 5 has DONE with balance $53
+0: process 5 (pid   364, parent   359) has STARTED with balance $50
+0: process 4 (pid   363, parent   359) has STARTED with balance $40
+0: process 3 (pid   362, parent   359) has STARTED with balance $30
+0: process 2 (pid   361, parent   359) has STARTED with balance $20
+0: process 1 (pid   360, parent   359) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $19
+5: process 3 has DONE with balance $29
+5: process 5 has DONE with balance $53
+5: process 4 has DONE with balance $39
+0: process 1 (pid   375, parent   374) has STARTED with balance $10
+0: process 5 (pid   379, parent   374) has STARTED with balance $70
+0: process 3 (pid   377, parent   374) has STARTED with balance $30
+0: process 4 (pid   378, parent   374) has STARTED with balance $40
+0: process 2 (pid   376, parent   374) has STARTED with balance $20
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $19
+5: process 3 has DONE with balance $29
+5: process 5 has DONE with balance $73
+5: process 4 has DONE with balance $39
+0: process 2 (pid  2525, parent  2523) has STARTED with balance $20
+0: process 4 (pid  2527, parent  2523) has STARTED with balance $40
+0: process 5 (pid  2528, parent  2523) has STARTED with balance $70
+0: process 3 (pid  2526, parent  2523) has STARTED with balance $30
+0: process 1 (pid  2524, parent  2523) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 4 (pid  4568, parent  4564) has STARTED with balance $40
+0: process 5 (pid  4569, parent  4564) has STARTED with balance $70
+0: process 1 (pid  4565, parent  4564) has STARTED with balance $10
+0: process 2 (pid  4566, parent  4564) has STARTED with balance $20
+0: process 3 (pid  4567, parent  4564) has STARTED with balance $30
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $19
+5: process 3 has DONE with balance $29
+5: process 4 has DONE with balance $39
+5: process 5 has DONE with balance $73
+0: process 5 (pid  4587, parent  4582) has STARTED with balance $70
+0: process 0 received all STARTED messages
+0: process 1 (pid  4583, parent  4582) has STARTED with balance $10
+0: process 4 (pid  4586, parent  4582) has STARTED with balance $40
+0: process 2 (pid  4584, parent  4582) has STARTED with balance $20
+0: process 3 (pid  4585, parent  4582) has STARTED with balance $30
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $19
+5: process 3 has DONE with balance $29
+5: process 5 has DONE with balance $73
+5: process 4 has DONE with balance $39
+0: process 1 (pid  4637, parent  4636) has STARTED with balance $10
+0: process 8 (pid  4644, parent  4636) has STARTED with balance $10
+0: process 7 (pid  4643, parent  4636) has STARTED with balance $10
+0: process 3 (pid  4639, parent  4636) has STARTED with balance $10
+0: process 10 (pid  4646, parent  4636) has STARTED with balance $10
+0: process 5 (pid  4641, parent  4636) has STARTED with balance $10
+0: process 6 (pid  4642, parent  4636) has STARTED with balance $10
+0: process 9 (pid  4645, parent  4636) has STARTED with balance $10
+0: process 2 (pid  4638, parent  4636) has STARTED with balance $10
+0: process 4 (pid  4640, parent  4636) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 5 (pid  4667, parent  4662) has STARTED with balance $10
+0: process 2 (pid  4664, parent  4662) has STARTED with balance $10
+0: process 1 (pid  4663, parent  4662) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 3 (pid  4665, parent  4662) has STARTED with balance $10
+0: process 4 (pid  4666, parent  4662) has STARTED with balance $10
+0: process 7 (pid  4669, parent  4662) has STARTED with balance $10
+0: process 10 (pid  4672, parent  4662) has STARTED with balance $10
+0: process 6 (pid  4668, parent  4662) has STARTED with balance $10
+0: process 9 (pid  4671, parent  4662) has STARTED with balance $10
+0: process 8 (pid  4670, parent  4662) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+10: process 9 has DONE with balance $ 9
+0: process 1 (pid  4683, parent  4682) has STARTED with balance $10
+0: process 6 (pid  4688, parent  4682) has STARTED with balance $10
+0: process 2 (pid  4684, parent  4682) has STARTED with balance $10
+0: process 5 (pid  4687, parent  4682) has STARTED with balance $10
+0: process 7 (pid  4689, parent  4682) has STARTED with balance $10
+0: process 10 (pid  4692, parent  4682) has STARTED with balance $10
+0: process 4 (pid  4686, parent  4682) has STARTED with balance $10
+0: process 3 (pid  4685, parent  4682) has STARTED with balance $10
+0: process 9 (pid  4691, parent  4682) has STARTED with balance $10
+0: process 8 (pid  4690, parent  4682) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 3 (pid  4708, parent  4705) has STARTED with balance $10
+0: process 5 (pid  4710, parent  4705) has STARTED with balance $10
+0: process 1 (pid  4706, parent  4705) has STARTED with balance $10
+0: process 4 (pid  4709, parent  4705) has STARTED with balance $10
+0: process 2 (pid  4707, parent  4705) has STARTED with balance $10
+0: process 7 (pid  4712, parent  4705) has STARTED with balance $10
+0: process 6 (pid  4711, parent  4705) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 10 (pid  4715, parent  4705) has STARTED with balance $10
+0: process 8 (pid  4713, parent  4705) has STARTED with balance $10
+0: process 9 (pid  4714, parent  4705) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 1 (pid  4729, parent  4728) has STARTED with balance $10
+0: process 6 (pid  4734, parent  4728) has STARTED with balance $10
+0: process 4 (pid  4732, parent  4728) has STARTED with balance $10
+0: process 5 (pid  4733, parent  4728) has STARTED with balance $10
+0: process 3 (pid  4731, parent  4728) has STARTED with balance $10
+0: process 9 (pid  4737, parent  4728) has STARTED with balance $10
+0: process 8 (pid  4736, parent  4728) has STARTED with balance $10
+0: process 10 (pid  4738, parent  4728) has STARTED with balance $10
+0: process 2 (pid  4730, parent  4728) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 7 (pid  4735, parent  4728) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 5 (pid  4753, parent  4748) has STARTED with balance $10
+0: process 3 (pid  4751, parent  4748) has STARTED with balance $10
+0: process 2 (pid  4750, parent  4748) has STARTED with balance $10
+0: process 4 (pid  4752, parent  4748) has STARTED with balance $10
+0: process 7 (pid  4755, parent  4748) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 8 (pid  4756, parent  4748) has STARTED with balance $10
+0: process 6 (pid  4754, parent  4748) has STARTED with balance $10
+0: process 1 (pid  4749, parent  4748) has STARTED with balance $10
+0: process 10 (pid  4758, parent  4748) has STARTED with balance $10
+0: process 9 (pid  4757, parent  4748) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 4 (pid  4775, parent  4771) has STARTED with balance $10
+0: process 6 (pid  4777, parent  4771) has STARTED with balance $10
+0: process 2 (pid  4773, parent  4771) has STARTED with balance $10
+0: process 9 (pid  4780, parent  4771) has STARTED with balance $10
+0: process 10 (pid  4781, parent  4771) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 7 (pid  4778, parent  4771) has STARTED with balance $10
+0: process 1 (pid  4772, parent  4771) has STARTED with balance $10
+0: process 5 (pid  4776, parent  4771) has STARTED with balance $10
+0: process 3 (pid  4774, parent  4771) has STARTED with balance $10
+0: process 8 (pid  4779, parent  4771) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+10: process 9 has DONE with balance $ 9
+0: process 3 (pid  4797, parent  4791) has STARTED with balance $10
+0: process 5 (pid  4799, parent  4791) has STARTED with balance $10
+0: process 10 (pid  4804, parent  4791) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 9 (pid  4803, parent  4791) has STARTED with balance $10
+0: process 7 (pid  4801, parent  4791) has STARTED with balance $10
+0: process 6 (pid  4800, parent  4791) has STARTED with balance $10
+0: process 4 (pid  4798, parent  4791) has STARTED with balance $10
+0: process 1 (pid  4795, parent  4791) has STARTED with balance $10
+0: process 8 (pid  4802, parent  4791) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 (pid  4796, parent  4791) has STARTED with balance $10
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+10: process 9 has DONE with balance $ 9
+0: process 8 (pid  4822, parent  4814) has STARTED with balance $10
+0: process 7 (pid  4821, parent  4814) has STARTED with balance $10
+0: process 4 (pid  4818, parent  4814) has STARTED with balance $10
+0: process 5 (pid  4819, parent  4814) has STARTED with balance $10
+0: process 9 (pid  4823, parent  4814) has STARTED with balance $10
+0: process 2 (pid  4816, parent  4814) has STARTED with balance $10
+0: process 10 (pid  4824, parent  4814) has STARTED with balance $10
+0: process 6 (pid  4820, parent  4814) has STARTED with balance $10
+0: process 1 (pid  4815, parent  4814) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 3 (pid  4817, parent  4814) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 2 (pid  4839, parent  4837) has STARTED with balance $10
+0: process 3 (pid  4840, parent  4837) has STARTED with balance $10
+0: process 8 (pid  4845, parent  4837) has STARTED with balance $10
+0: process 6 (pid  4843, parent  4837) has STARTED with balance $10
+0: process 4 (pid  4841, parent  4837) has STARTED with balance $10
+0: process 10 (pid  4847, parent  4837) has STARTED with balance $10
+0: process 7 (pid  4844, parent  4837) has STARTED with balance $10
+0: process 9 (pid  4846, parent  4837) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 5 (pid  4842, parent  4837) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 1 (pid  4838, parent  4837) has STARTED with balance $10
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 3 (pid  4860, parent  4857) has STARTED with balance $10
+0: process 5 (pid  4862, parent  4857) has STARTED with balance $10
+0: process 6 (pid  4863, parent  4857) has STARTED with balance $10
+0: process 7 (pid  4864, parent  4857) has STARTED with balance $10
+0: process 4 (pid  4861, parent  4857) has STARTED with balance $10
+0: process 2 (pid  4859, parent  4857) has STARTED with balance $10
+0: process 9 (pid  4866, parent  4857) has STARTED with balance $10
+0: process 8 (pid  4865, parent  4857) has STARTED with balance $10
+0: process 10 (pid  4867, parent  4857) has STARTED with balance $10
+0: process 1 (pid  4858, parent  4857) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 3 (pid  4883, parent  4880) has STARTED with balance $10
+0: process 1 (pid  4881, parent  4880) has STARTED with balance $10
+0: process 4 (pid  4884, parent  4880) has STARTED with balance $10
+0: process 5 (pid  4885, parent  4880) has STARTED with balance $10
+0: process 10 (pid  4890, parent  4880) has STARTED with balance $10
+0: process 8 (pid  4888, parent  4880) has STARTED with balance $10
+0: process 7 (pid  4887, parent  4880) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 6 (pid  4886, parent  4880) has STARTED with balance $10
+0: process 9 (pid  4889, parent  4880) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 (pid  4882, parent  4880) has STARTED with balance $10
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+10: process 9 has DONE with balance $ 9
+0: process 4 (pid  4904, parent  4900) has STARTED with balance $10
+0: process 7 (pid  4907, parent  4900) has STARTED with balance $10
+0: process 10 (pid  4910, parent  4900) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 3 (pid  4903, parent  4900) has STARTED with balance $10
+0: process 8 (pid  4908, parent  4900) has STARTED with balance $10
+0: process 5 (pid  4905, parent  4900) has STARTED with balance $10
+0: process 6 (pid  4906, parent  4900) has STARTED with balance $10
+0: process 2 (pid  4902, parent  4900) has STARTED with balance $10
+0: process 1 (pid  4901, parent  4900) has STARTED with balance $10
+0: process 9 (pid  4909, parent  4900) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 10 (pid  4933, parent  4923) has STARTED with balance $10
+0: process 2 (pid  4925, parent  4923) has STARTED with balance $10
+0: process 4 (pid  4927, parent  4923) has STARTED with balance $10
+0: process 6 (pid  4929, parent  4923) has STARTED with balance $10
+0: process 5 (pid  4928, parent  4923) has STARTED with balance $10
+0: process 1 (pid  4924, parent  4923) has STARTED with balance $10
+0: process 7 (pid  4930, parent  4923) has STARTED with balance $10
+0: process 8 (pid  4931, parent  4923) has STARTED with balance $10
+0: process 3 (pid  4926, parent  4923) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 9 (pid  4932, parent  4923) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+10: process 9 has DONE with balance $ 9
+0: process 5 (pid  4948, parent  4943) has STARTED with balance $10
+0: process 8 (pid  4951, parent  4943) has STARTED with balance $10
+0: process 3 (pid  4946, parent  4943) has STARTED with balance $10
+0: process 1 (pid  4944, parent  4943) has STARTED with balance $10
+0: process 9 (pid  4952, parent  4943) has STARTED with balance $10
+0: process 2 (pid  4945, parent  4943) has STARTED with balance $10
+0: process 4 (pid  4947, parent  4943) has STARTED with balance $10
+0: process 6 (pid  4949, parent  4943) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 7 (pid  4950, parent  4943) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+0: process 10 (pid  4953, parent  4943) has STARTED with balance $10
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 2 (pid  4968, parent  4966) has STARTED with balance $10
+0: process 10 (pid  4976, parent  4966) has STARTED with balance $10
+0: process 1 (pid  4967, parent  4966) has STARTED with balance $10
+0: process 7 (pid  4973, parent  4966) has STARTED with balance $10
+0: process 5 (pid  4971, parent  4966) has STARTED with balance $10
+0: process 6 (pid  4972, parent  4966) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 9 (pid  4975, parent  4966) has STARTED with balance $10
+0: process 3 (pid  4969, parent  4966) has STARTED with balance $10
+0: process 8 (pid  4974, parent  4966) has STARTED with balance $10
+0: process 4 (pid  4970, parent  4966) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 2 (pid  6066, parent  6064) has STARTED with balance $10
+0: process 5 (pid  6069, parent  6064) has STARTED with balance $10
+0: process 1 (pid  6065, parent  6064) has STARTED with balance $10
+0: process 7 (pid  6071, parent  6064) has STARTED with balance $10
+0: process 8 (pid  6072, parent  6064) has STARTED with balance $10
+0: process 3 (pid  6067, parent  6064) has STARTED with balance $10
+0: process 4 (pid  6068, parent  6064) has STARTED with balance $10
+0: process 6 (pid  6070, parent  6064) has STARTED with balance $10
+0: process 10 (pid  6074, parent  6064) has STARTED with balance $10
+0: process 9 (pid  6073, parent  6064) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 1 has DONE with balance $10
+0: process 1 (pid  6130, parent  6129) has STARTED with balance $10
+0: process 4 (pid  6133, parent  6129) has STARTED with balance $10
+0: process 2 (pid  6131, parent  6129) has STARTED with balance $10
+0: process 5 (pid  6134, parent  6129) has STARTED with balance $10
+0: process 3 (pid  6132, parent  6129) has STARTED with balance $10
+0: process 10 (pid  6139, parent  6129) has STARTED with balance $10
+0: process 7 (pid  6136, parent  6129) has STARTED with balance $10
+0: process 8 (pid  6137, parent  6129) has STARTED with balance $10
+0: process 6 (pid  6135, parent  6129) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 9 (pid  6138, parent  6129) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 1 has DONE with balance $10
+0: process 1 (pid  6177, parent  6176) has STARTED with balance $10
+0: process 2 (pid  6178, parent  6176) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 3 (pid  6179, parent  6176) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 1 to process 1
+3: process 1 received $ 1 from process 3
+3: process 1 has DONE with balance $10
+0: process 0 received all STARTED messages
+0: process 3 (pid  6300, parent  6297) has STARTED with balance $10
+0: process 1 (pid  6298, parent  6297) has STARTED with balance $10
+0: process 2 (pid  6299, parent  6297) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 1 to process 1
+3: process 1 received $ 1 from process 3
+0: process 1 (pid  6506, parent  6505) has STARTED with balance $10
+0: process 2 (pid  6507, parent  6505) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 3 (pid  6508, parent  6505) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 1 to process 1
+3: process 1 received $ 1 from process 3
+0: process 5 (pid   683, parent   678) has STARTED with balance $70
+0: process 1 (pid   679, parent   678) has STARTED with balance $10
+0: process 3 (pid   681, parent   678) has STARTED with balance $30
+0: process 2 (pid   680, parent   678) has STARTED with balance $20
+0: process 4 (pid   682, parent   678) has STARTED with balance $40
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $19
+5: process 3 has DONE with balance $29
+5: process 5 has DONE with balance $73
+5: process 4 has DONE with balance $39
+0: process 2 (pid   723, parent   721) has STARTED with balance $10
+0: process 1 (pid   722, parent   721) has STARTED with balance $10
+0: process 5 (pid   726, parent   721) has STARTED with balance $10
+0: process 3 (pid   724, parent   721) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 4 (pid   725, parent   721) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+5: process 4 has DONE with balance $ 9
+0: process 0 received all STARTED messages
+0: process 2 (pid   858, parent   856) has STARTED with balance $10
+0: process 3 (pid   859, parent   856) has STARTED with balance $10
+0: process 4 (pid   860, parent   856) has STARTED with balance $10
+0: process 1 (pid   857, parent   856) has STARTED with balance $10
+0: process 5 (pid   861, parent   856) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+0: process 3 (pid   940, parent   937) has STARTED with balance $10
+0: process 2 (pid   939, parent   937) has STARTED with balance $10
+0: process 5 (pid   942, parent   937) has STARTED with balance $10
+0: process 1 (pid   938, parent   937) has STARTED with balance $10
+0: process 4 (pid   941, parent   937) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+0: process 3 (pid  1009, parent  1006) has STARTED with balance $30
+0: process 2 (pid  1008, parent  1006) has STARTED with balance $20
+0: process 4 (pid  1010, parent  1006) has STARTED with balance $40
+0: process 0 received all STARTED messages
+0: process 1 (pid  1007, parent  1006) has STARTED with balance $10
+0: process 5 (pid  1011, parent  1006) has STARTED with balance $70
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $19
+5: process 3 has DONE with balance $29
+5: process 4 has DONE with balance $39
+5: process 5 has DONE with balance $73
+0: process 1 (pid  1034, parent  1033) has STARTED with balance $10
+0: process 2 (pid  1035, parent  1033) has STARTED with balance $10
+0: process 3 (pid  1036, parent  1033) has STARTED with balance $10
+0: process 4 (pid  1037, parent  1033) has STARTED with balance $10
+0: process 9 (pid  1042, parent  1033) has STARTED with balance $10
+0: process 7 (pid  1040, parent  1033) has STARTED with balance $10
+0: process 6 (pid  1039, parent  1033) has STARTED with balance $10
+0: process 5 (pid  1038, parent  1033) has STARTED with balance $10
+0: process 8 (pid  1041, parent  1033) has STARTED with balance $10
+0: process 10 (pid  1043, parent  1033) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 2 (pid  1058, parent  1056) has STARTED with balance $10
+0: process 4 (pid  1060, parent  1056) has STARTED with balance $10
+0: process 5 (pid  1061, parent  1056) has STARTED with balance $10
+0: process 6 (pid  1062, parent  1056) has STARTED with balance $10
+0: process 7 (pid  1063, parent  1056) has STARTED with balance $10
+0: process 10 (pid  1066, parent  1056) has STARTED with balance $10
+0: process 9 (pid  1065, parent  1056) has STARTED with balance $10
+0: process 1 (pid  1057, parent  1056) has STARTED with balance $10
+0: process 3 (pid  1059, parent  1056) has STARTED with balance $10
+0: process 8 (pid  1064, parent  1056) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 2 (pid  1163, parent  1161) has STARTED with balance $10
+0: process 10 (pid  1171, parent  1161) has STARTED with balance $10
+0: process 6 (pid  1167, parent  1161) has STARTED with balance $10
+0: process 8 (pid  1169, parent  1161) has STARTED with balance $10
+0: process 4 (pid  1165, parent  1161) has STARTED with balance $10
+0: process 5 (pid  1166, parent  1161) has STARTED with balance $10
+0: process 3 (pid  1164, parent  1161) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 9 (pid  1170, parent  1161) has STARTED with balance $10
+0: process 7 (pid  1168, parent  1161) has STARTED with balance $10
+0: process 1 (pid  1162, parent  1161) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 0 received all DONE messages
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 0 received all STARTED messages
+0: process 3 (pid  1327, parent  1324) has STARTED with balance $10
+0: process 5 (pid  1329, parent  1324) has STARTED with balance $10
+0: process 4 (pid  1328, parent  1324) has STARTED with balance $10
+0: process 2 (pid  1326, parent  1324) has STARTED with balance $10
+0: process 1 (pid  1325, parent  1324) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+0: process 1 (pid  1412, parent  1411) has STARTED with balance $10
+0: process 2 (pid  1413, parent  1411) has STARTED with balance $10
+0: process 4 (pid  1415, parent  1411) has STARTED with balance $10
+0: process 3 (pid  1414, parent  1411) has STARTED with balance $10
+0: process 5 (pid  1416, parent  1411) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+0: process 3 (pid  1578, parent  1575) has STARTED with balance $10
+0: process 4 (pid  1579, parent  1575) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 2 (pid  1577, parent  1575) has STARTED with balance $10
+0: process 5 (pid  1580, parent  1575) has STARTED with balance $10
+0: process 1 (pid  1576, parent  1575) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 0 received all DONE messages
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+0: process 1 (pid  1659, parent  1658) has STARTED with balance $10
+0: process 4 (pid  1662, parent  1658) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 2 (pid  1660, parent  1658) has STARTED with balance $10
+0: process 3 (pid  1661, parent  1658) has STARTED with balance $10
+0: process 5 (pid  1663, parent  1658) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+5: process 0 received all DONE messages
+0: process 3 (pid  2791, parent  2788) has STARTED with balance $10
+0: process 2 (pid  2790, parent  2788) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 1 (pid  2789, parent  2788) has STARTED with balance $10
+0: process 5 (pid  2793, parent  2788) has STARTED with balance $10
+0: process 4 (pid  2792, parent  2788) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+5: process 0 received all DONE messages
+0: process 0 received all STARTED messages
+0: process 2 (pid  2835, parent  2833) has STARTED with balance $10
+0: process 5 (pid  2838, parent  2833) has STARTED with balance $10
+0: process 1 (pid  2834, parent  2833) has STARTED with balance $10
+0: process 4 (pid  2837, parent  2833) has STARTED with balance $10
+0: process 3 (pid  2836, parent  2833) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+5: process 0 received all DONE messages
+0: process 1 (pid  2852, parent  2851) has STARTED with balance $10
+0: process 2 (pid  2853, parent  2851) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 4 (pid  2855, parent  2851) has STARTED with balance $10
+0: process 3 (pid  2854, parent  2851) has STARTED with balance $10
+0: process 5 (pid  2856, parent  2851) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 1 has DONE with balance $10
+5: process 2 has DONE with balance $ 9
+5: process 3 has DONE with balance $ 9
+5: process 4 has DONE with balance $ 9
+5: process 5 has DONE with balance $13
+5: process 0 received all DONE messages
+0: process 4 (pid  2876, parent  2869) has STARTED with balance $10
+0: process 1 (pid  2873, parent  2869) has STARTED with balance $10
+0: process 8 (pid  2880, parent  2869) has STARTED with balance $10
+0: process 5 (pid  2877, parent  2869) has STARTED with balance $10
+0: process 9 (pid  2881, parent  2869) has STARTED with balance $10
+0: process 6 (pid  2878, parent  2869) has STARTED with balance $10
+0: process 10 (pid  2882, parent  2869) has STARTED with balance $10
+0: process 2 (pid  2874, parent  2869) has STARTED with balance $10
+0: process 0 received all STARTED messages
+0: process 7 (pid  2879, parent  2869) has STARTED with balance $10
+0: process 3 (pid  2875, parent  2869) has STARTED with balance $10
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 0 received all DONE messages
+10: process 10 has DONE with balance $18
+0: process 5 (pid 12455, parent 12450) has STARTED with balance $10
+0: process 1 (pid 12451, parent 12450) has STARTED with balance $10
+0: process 10 (pid 12460, parent 12450) has STARTED with balance $10
+0: process 9 (pid 12459, parent 12450) has STARTED with balance $10
+0: process 8 (pid 12458, parent 12450) has STARTED with balance $10
+0: process 6 (pid 12456, parent 12450) has STARTED with balance $10
+0: process 7 (pid 12457, parent 12450) has STARTED with balance $10
+0: process 3 (pid 12453, parent 12450) has STARTED with balance $10
+0: process 4 (pid 12454, parent 12450) has STARTED with balance $10
+0: process 2 (pid 12452, parent 12450) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 5 (pid 12547, parent 12542) has STARTED with balance $10
+0: process 4 (pid 12546, parent 12542) has STARTED with balance $10
+0: process 2 (pid 12544, parent 12542) has STARTED with balance $10
+0: process 10 (pid 12552, parent 12542) has STARTED with balance $10
+0: process 1 (pid 12543, parent 12542) has STARTED with balance $10
+0: process 8 (pid 12550, parent 12542) has STARTED with balance $10
+0: process 7 (pid 12549, parent 12542) has STARTED with balance $10
+0: process 9 (pid 12551, parent 12542) has STARTED with balance $10
+0: process 6 (pid 12548, parent 12542) has STARTED with balance $10
+0: process 3 (pid 12545, parent 12542) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+0: process 4 (pid 12846, parent 12842) has STARTED with balance $10
+0: process 2 (pid 12844, parent 12842) has STARTED with balance $10
+0: process 3 (pid 12845, parent 12842) has STARTED with balance $10
+0: process 6 (pid 12848, parent 12842) has STARTED with balance $10
+0: process 7 (pid 12849, parent 12842) has STARTED with balance $10
+0: process 1 (pid 12843, parent 12842) has STARTED with balance $10
+0: process 10 (pid 12852, parent 12842) has STARTED with balance $10
+0: process 9 (pid 12851, parent 12842) has STARTED with balance $10
+0: process 8 (pid 12850, parent 12842) has STARTED with balance $10
+0: process 5 (pid 12847, parent 12842) has STARTED with balance $10
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 6 to process 7
+6: process 7 received $ 6 from process 6
+7: process 7 transferred $ 7 to process 8
+7: process 8 received $ 7 from process 7
+8: process 8 transferred $ 8 to process 9
+8: process 9 received $ 8 from process 8
+9: process 9 transferred $ 9 to process 10
+9: process 10 received $ 9 from process 9
+10: process 10 transferred $ 1 to process 1
+10: process 1 received $ 1 from process 10
+10: process 1 has DONE with balance $10
+10: process 2 has DONE with balance $ 9
+10: process 3 has DONE with balance $ 9
+10: process 4 has DONE with balance $ 9
+10: process 5 has DONE with balance $ 9
+10: process 6 has DONE with balance $ 9
+10: process 7 has DONE with balance $ 9
+10: process 8 has DONE with balance $ 9
+10: process 9 has DONE with balance $ 9
+10: process 10 has DONE with balance $18
+10: process 0 received all DONE messages
+0: process 2 (pid 13100, parent 13098) has STARTED with balance $ 2
+0: process 1 (pid 13099, parent 13098) has STARTED with balance $ 2
+0: process 0 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 1 to process 1
+2: process 1 received $ 1 from process 2
+2: process 1 has DONE with balance $ 2
+2: process 2 has DONE with balance $ 2
+2: process 0 received all DONE messages
